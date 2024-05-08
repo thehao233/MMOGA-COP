@@ -6,9 +6,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import time
 from Tool import myRandom
-# 在NSGA2的基础上
-# min energy,time 在初始化种群阶段
-# DVFS
 
 from My_Makespan_Energy.VerifyEffectiveness.pojo.Individual import Individual
 from My_Makespan_Energy.VerifyEffectiveness.pojo.MeNB import MeNB
